@@ -1,0 +1,44 @@
+.portfolio {
+    width: 1440;
+height: 3300;
+angle: 0 deg;
+opacity: 1;
+  background-color: #FFFFFF;
+}
+
+.portfolio-img-title {
+    color: #2E2F42;
+    font-family: Roboto;
+font-weight: 500;
+font-style: Medium;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 2%;
+}
+
+
+.portfolio-img-text {
+    color: #434455;
+    font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 16px;
+leading-trim: NONE;
+line-height: 24px;
+letter-spacing: 2%;
+
+
+}
+
+.portfolio-title {
+    color: #2E2F42;
+    font-family: Roboto;
+font-weight: 700;
+font-style: Bold;
+font-size: 36px;
+leading-trim: NONE;
+line-height: 40px;
+letter-spacing: 2%;
+text-align: center;
+}

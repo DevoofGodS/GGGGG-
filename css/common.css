@@ -1,0 +1,46 @@
+ul, li, a {
+
+    text-decoration: none;
+    list-style-type: none;
+    color: #2E2F42;
+}
+
+
+
+
+
+.body {
+    font-family: roboto, sans-serif;
+}
+
+
+.logo-web {
+    font-family: Raleway;
+font-weight: 700;
+font-style: Bold;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 21px;
+letter-spacing: 3%;
+vertical-align: middle;
+text-transform: uppercase;
+
+    color: #4D5AE5;
+}
+
+
+.logo {
+    text-decoration: none;
+    color: #2E2F42;
+    font-family: Raleway;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 18px;
+    leading-trim: NONE;
+    line-height: 21px;
+    letter-spacing: 3%;
+    vertical-align: middle;
+    text-transform: uppercase;
+
+}
+
